@@ -19,7 +19,7 @@ This project includes a **Login** and **Register** page built using **Kotlin** a
 
 | **Register Page** | **Home Page** |
 |------------------|--------------|
-| ![Register]([https://raw.githubusercontent.com/arpitm1037/YourRepo/main/images/register.png]) | ![HomePage](https://github.com/arpitm1037/LoginAndRegister/blob/master/Screenshot%202025-03-02%20at%2014.59.34.png?raw=true) |
+| ![Register](https://github.com/arpitm1037/LoginAndRegister/blob/master/Screenshot%202025-03-02%20at%2014.59.03.png?raw=true) | ![HomePage](https://github.com/arpitm1037/LoginAndRegister/blob/master/Screenshot%202025-03-02%20at%2014.59.34.png?raw=true) |
 
 ---
 
